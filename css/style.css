@@ -40,9 +40,12 @@ header {
     border-top: 20px;
     border-color: blue;
     background-color: white;
-    width: 100%;
+    width: 99%;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px; 
+    border-bottom-right-radius:  6px;
+    border-bottom-left-radius:  6px; 
+}
 }
 
 
