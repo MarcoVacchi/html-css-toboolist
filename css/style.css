@@ -1,18 +1,18 @@
 * {
-    margin: 0px;
+    margin: 3px;
     padding: 0px;
     box-sizing: border-box;
 }
 
 .container {          
-        line-height: 80px;
+        line-height: 57px;
         margin-left: 150px;
         margin-right: 150px;
 }
 
 
 body{
-    background-color: grey;
+    background-color: #f6f8f9;
     font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -76,6 +76,7 @@ header {
 
 .new_task{
         display: inline-block;
+        margin-left: 3;
 }
 
 .cerchio{
@@ -102,3 +103,41 @@ header {
 }
 
 
+.bottone_2{
+    border-width: 1px;
+    height: 30px;
+    width: 88px;
+    border-radius: 12px;
+}
+
+.newsletter{
+    color: white;
+    background-color: #14aaf5;
+    margin-left: 3px;
+    
+}
+
+.viola{
+    background-color: #ab5de6 ;
+    color: white ;
+}
+
+.verde{
+    background-color: #2cc6ab;
+    color: white ;
+}
+
+.arancio{
+   background-color: #ff9b00;
+   color: white;
+}
+
+.viola_2{
+    background-color: violet ;
+    color: white;
+}
+
+.verde_chiaro{
+    background-color: #a3d116;
+    color: white;
+}
