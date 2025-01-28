@@ -23,6 +23,18 @@ h1 {
     vertical-align: top;
 } 
 
-header{
+header {
     background-color: white;
+}
+
+.button_blue {
+    color: #14aaf5;
+    display: inline;
+    line-height: 78px;
+    margin-left: 219px;
+}
+
+.button_white{
+    color: #dbdfe2;
+    display: inline;    
 }
